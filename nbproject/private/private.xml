@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/web/user/recipeDetail.jsp</file>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/src/java/dao/UserDAO.java</file>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/web/register.jsp</file>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/src/java/controller/NutritionServlet.java</file>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/src/java/dao/RecipeDAO.java</file>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/web/user/dashboard.jsp</file>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/src/java/model/IngredientItem.java</file>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/src/java/model/Recipe.java</file>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/web/index.jsp</file>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/web/user/nutritionEvaluation.jsp</file>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/src/java/controller/RecipeServlet.java</file>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/src/java/dao/RecipeIngredientDAO.java</file>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/web/user/recipeAdd.jsp</file>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/src/java/dao/IngredientNutrientDAO.java</file>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/web/login.jsp</file>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/web/user/recipeEdit.jsp</file>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/web/user/recipeList.jsp</file>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/src/java/controller/RegisterServlet.java</file>
+            <file>file:/C:/Users/haziq/OneDrive/Documents/NetBeansProjects/PITA/src/java/model/Ingredient.java</file>
+        </group>
+    </open-files>
+</project-private>
